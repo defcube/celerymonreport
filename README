@@ -1,0 +1,1 @@
+This parses the javascript output by celerymon and reports a summary of where celery is spending it's time. 
